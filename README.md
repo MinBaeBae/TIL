@@ -1,2 +1,5 @@
 # TIL
-Today I learned...
+
+I wanna be young and rich forever.
+
+##Today I learned...
